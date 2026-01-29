@@ -1,0 +1,5 @@
+{
+  "name": "MediTestAI",
+  "description": "An enterprise-grade, AI-powered test case generation system for healthcare software, featuring compliance checks (FDA, HIPAA) and seamless traceability.",
+  "requestFramePermissions": []
+}
